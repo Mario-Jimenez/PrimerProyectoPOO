@@ -1,0 +1,69 @@
+10
+Teorica
+A-02
+Aula 2
+Segundo piso del edificio X
+14
+1
+1
+Teorica
+A-04
+Aula 4
+Segundo piso del edificio X
+30
+0
+0
+Teorica
+A-05
+Aula 5
+Segundo piso del edificio X
+30
+0
+0
+Teorica
+A-06
+Aula 6
+Segundo piso del edificio X
+26
+1
+0
+Teorica
+A-07
+Aula 7
+Segundo piso del edificio X
+32
+1
+0
+Teorica
+A-08
+Aula 8
+Segundo piso del edificio X
+32
+0
+0
+Teorica
+A-09
+Aula 9
+Segundo piso del edificio X
+36
+0
+0
+Teorica
+A-10
+Aula 10
+Segundo piso del edificio X
+30
+0
+1
+Teorica
+AUC-01
+Mini Auditorio de Computacion
+Laboratorios de computacion
+24
+0
+0
+Practica
+Lab-01
+Laboratorio 1
+Laboratorios de computacion
+20

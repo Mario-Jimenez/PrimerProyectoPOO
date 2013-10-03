@@ -1,0 +1,46 @@
+15
+001
+Alpizar Lobo Danilo
+Ciencias y Letras
+002
+Corella Esquivel Karina
+Ciencias y Letras
+003
+Viquez Acuna Oscar Mario
+Ingenieria en Computacion
+004
+Mendez Porras Abel
+Ingenieria en Computacion
+005
+Ballestero Alfaro Esteban
+Ciencias y Letras
+006
+Prendas Solano Jorge
+Ciencias y Letras
+007
+Araya Rodriguez Freddy
+Ciencias y Letras
+008
+Esquivel Vega Gaudy
+Ingenieria en Computacion
+009
+Campos Fuentes Marvin
+Ingenieria en Computacion
+010
+Jimenez Cespedes Rodolfo
+Ciencias y Letras
+011
+Valerio Solis Lorena
+Ingenieria en Computacion
+012
+Alfaro Velazco Jorge
+Ingenieria en Computacion
+013
+Guillen Perez Carlos Enrique
+Ciencias y Letras
+014
+Rodriguez Barrientos Jose
+Ciencias y Letras
+015
+Lopez Villegas Oscar
+Ingenieria en Computacion

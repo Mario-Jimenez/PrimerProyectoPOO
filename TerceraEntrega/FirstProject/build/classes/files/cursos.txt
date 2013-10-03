@@ -1,0 +1,180 @@
+25
+Teorico
+CI1311
+Ingles I para Computacion
+3
+1
+50
+Pagina
+Teorico
+CI1403
+Comunicacion Tecnica
+2
+1
+50
+Pagina
+Teorico
+IC1400
+Fundamentos de Organizacion de Computadoras
+3
+0
+51
+Pagina
+Teorico
+IC1802
+Introduccion a la Programacion
+3
+0
+50
+Pagina
+Teorico
+IC1803
+Taller de Programacion
+3
+0
+50
+Pagina
+Teorico
+MA1403
+Matematica Discreta
+4
+1
+50
+Pagina
+Teorico
+CI1312
+Ingles II para Computacion
+3
+1
+50
+Pagina
+Teorico
+IC2001
+Estructuras de Datos
+4
+0
+50
+Pagina
+Practico
+IC2101
+Programacion Orientada a Objetos
+3
+0
+50
+Material
+SO
+Teorico
+IC3101
+Arquitectura de Computadoras
+4
+0
+50
+Pagina
+Teorico
+MA1404
+Calculo
+4
+1
+50
+Pagina
+Teorico
+CI1313
+Ingles III para Computacion
+3
+1
+51
+Pagina
+Teorico
+CS2101
+Ambiente Humano
+2
+1
+50
+Pagina
+Teorico
+MA2405
+Algebra Lineal para Computacion
+4
+1
+50
+Pagina
+Teorico
+CI1314
+Ingles IV para Computacion
+3
+1
+50
+Pagina
+Practico
+IC4700
+Lenguajes de Programacion
+4
+0
+50
+Material
+SO
+Teorico
+MA2404
+Probabilidades
+4
+1
+50
+Pagina
+Teorico
+CS3401
+Seminario de Estudios Filosoficos Historicos
+2
+1
+50
+Pagina
+Practico
+IC4810
+Administracion de Proyectos
+4
+0
+50
+Material
+SO
+Practico
+IC5701
+Compiladores e Interpretes
+4
+0
+50
+Material
+SO
+Teorico
+IC6821
+Diseno de Software
+4
+0
+50
+Pagina
+Teorico
+MA3405
+Estadistica
+4
+1
+50
+Pagina
+Teorico
+CS4402
+Seminario de Estudios Costarricenses
+2
+1
+50
+Pagina
+Teorico
+IC6400
+Investigacion de Operaciones
+4
+0
+50
+Pagina
+Teorico
+IC6600
+Principios de Sistemas Operativos
+4
+0
+50
+Pagina
